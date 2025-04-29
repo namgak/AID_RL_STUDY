@@ -21,14 +21,14 @@
 
 | 주차 | 이름          | 링크                     |
 |:----:|:-------------:|:------------------------:|
-| 1주차 | 심영찬 | https://blog.naver.com/coding_tiger/223817753241 |
+| 1주차 | 심영찬 | [ch01,ch02](https://blog.naver.com/coding_tiger/223817753241) |
 | 1주차 | 김태균 | [ch01, ch02](https://well-bagel-d92.notion.site/1-ch01-ch02-1c733c9b1bdd801288d3d285b42acb72?pvs=4) |
 | 1주차 | 박비원 | https://velog.io/@3124/Ch1.-강화학습이란, https://velog.io/@3124/Ch02.-강화학습-문제의-모형화-마르코프-결정-과정 |
 | 1주차 | 전진혁 | @ |
 
 | 주차 | 이름          | 링크                     |
 |:----:|:-------------:|:------------------------:|
-| 2주차 | 심영찬 | https://blog.naver.com/coding_tiger/223826459862 |
+| 2주차 | 심영찬 | [ch03](https://blog.naver.com/coding_tiger/223826459862) |
 | 2주차 | 김태균 | [ch03](https://well-bagel-d92.notion.site/2-ch03-1cc33c9b1bdd80bbbcd2e7ad51f47378?pvs=4) |
 | 2주차 | 박비원 | [-](https://velog.io/@3124/Ch03.-가장-나은-동작의-선택-심층-Q-신경망DQN) |
 | 2주차 | 전진혁 | [ch03](https://www.notion.so/Chapter-3-1e4681b6c4158068b575d1817843c55f?pvs=4)|

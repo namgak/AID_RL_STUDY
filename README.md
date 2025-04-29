@@ -31,4 +31,12 @@
 | 2주차 | 심영찬 | https://blog.naver.com/coding_tiger/223826459862 |
 | 2주차 | 김태균 | [ch03](https://well-bagel-d92.notion.site/2-ch03-1cc33c9b1bdd80bbbcd2e7ad51f47378?pvs=4) |
 | 2주차 | 박비원 | [-](https://velog.io/@3124/Ch03.-가장-나은-동작의-선택-심층-Q-신경망DQN) |
-| 2주차 | 전진혁 | @ |
+| 2주차 | 전진혁 | [ch03](https://www.notion.so/Chapter-3-1e4681b6c4158068b575d1817843c55f?pvs=4)|
+
+
+| 주차 | 이름          | 링크                     |
+|:----:|:-------------:|:------------------------:|
+| 2주차 | 심영찬 |  |
+| 2주차 | 김태균 | |
+| 2주차 | 박비원 ||
+| 2주차 | 전진혁 | [ch04](https://www.notion.so/Chapter-4-1e3681b6c41580b0a296f40069ccaebc?pvs=4) |

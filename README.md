@@ -43,7 +43,7 @@
 
 | 주차 | 이름          | 링크                     |
 |:----:|:-------------:|:------------------------:|
-| 4주차 | 심영찬 ||
+| 4주차 | 심영찬 ||[ch05](https://www.notion.so/5-1f26637611cd80478876c0af750c20d4?pvs=4)
 | 4주차 | 김태균 |[ch05](https://well-bagel-d92.notion.site/4-ch05-1f233c9b1bdd8002b1dae9afa7937151?pvs=4)|
 | 4주차 | 박비원 |[ch05](https://equable-attempt-4b6.notion.site/Ch05-1ec9fac5c69b80069215cea17597e2ca?pvs=4)|
 | 4주차 | 전진혁 ||

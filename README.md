@@ -36,7 +36,14 @@
 
 | 주차 | 이름          | 링크                     |
 |:----:|:-------------:|:------------------------:|
-| 2주차 | 심영찬 | [ch04](https://blog.naver.com/coding_tiger/223850188890) |
-| 2주차 | 김태균 | |
-| 2주차 | 박비원 |[ch04](https://velog.io/@3124/Ch04.-정책-기울기-방법)|
-| 2주차 | 전진혁 | [ch04](https://www.notion.so/Chapter-4-1e3681b6c41580b0a296f40069ccaebc?pvs=4) |
+| 3주차 | 심영찬 | [ch04](https://blog.naver.com/coding_tiger/223850188890) |
+| 3주차 | 김태균 | |
+| 3주차 | 박비원 |[ch04](https://velog.io/@3124/Ch04.-정책-기울기-방법)|
+| 3주차 | 전진혁 | [ch04](https://www.notion.so/Chapter-4-1e3681b6c41580b0a296f40069ccaebc?pvs=4) |
+
+| 주차 | 이름          | 링크                     |
+|:----:|:-------------:|:------------------------:|
+| 4주차 | 심영찬 ||
+| 4주차 | 김태균 |[ch05](https://well-bagel-d92.notion.site/4-ch05-1f233c9b1bdd8002b1dae9afa7937151?pvs=4)|
+| 4주차 | 박비원 ||
+| 4주차 | 전진혁 ||

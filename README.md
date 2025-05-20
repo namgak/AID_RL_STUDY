@@ -47,3 +47,10 @@
 | 4주차 | 김태균 |[ch05](https://well-bagel-d92.notion.site/4-ch05-1f233c9b1bdd8002b1dae9afa7937151?pvs=4)|
 | 4주차 | 박비원 |[ch05](https://equable-attempt-4b6.notion.site/Ch05-1ec9fac5c69b80069215cea17597e2ca?pvs=4)|
 | 4주차 | 전진혁 |[ch05](https://www.notion.so/Chapter-5-1f0681b6c41580d9af8fec3abe34e15b?pvs=4)|
+
+| 주차 | 이름          | 링크                     |
+|:----:|:-------------:|:------------------------:|
+| 5주차 | 심영찬 ||
+| 5주차 | 김태균 ||
+| 5주차 | 박비원 ||
+| 5주차 | 전진혁 |[ch06](https://www.notion.so/Chapter-6-1f9681b6c41580918124db1d0817b217?pvs=4)|
